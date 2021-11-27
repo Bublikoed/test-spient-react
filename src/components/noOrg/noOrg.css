@@ -1,0 +1,15 @@
+.no-org {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-org img {
+    margin-bottom: 20px;
+}
+
+.no-org span {
+    font-size: 20px;
+    margin-bottom: 20px;
+}

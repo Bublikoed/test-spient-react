@@ -1,0 +1,59 @@
+aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    padding-top: 20px;
+    border-right: 2px solid rgb(199, 199, 199);
+}
+
+.logo {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.aside__footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.aside__footer a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+    border-top: 1px solid rgb(218, 218, 218);
+    color: #000;
+}
+
+.aside__footer a img {
+    margin-right: 15px;
+}
+.MuiMenuItem-root a {
+    display: flex;
+    align-items: center;
+    color: #000;
+}
+.MuiMenuItem-root a img,
+.MuiMenuItem-root img {
+    margin-right: 10px;
+    
+}
+
+.MuiMenuItem-root img {
+    width: 16px;
+}
+
+.asside-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    padding-bottom: 20px;
+}
+
+.asside-btn img {
+    margin-right: 15px;
+}

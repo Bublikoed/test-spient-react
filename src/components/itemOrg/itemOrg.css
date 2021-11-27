@@ -1,0 +1,21 @@
+.organization-item {
+    display: flex;
+    align-items: center;
+    
+}
+
+.organization-item div {
+    width: 14.28%;
+    text-align: center;
+    padding: 10px 5px;
+}
+
+.item-btns {
+    display: flex;
+    align-items: center;
+}
+
+.item-btns div {
+    margin: 0 5px;
+    cursor: pointer;
+}

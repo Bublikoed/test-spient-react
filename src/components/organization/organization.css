@@ -1,0 +1,23 @@
+.organization-list {
+    list-style: none;
+    padding: 0;
+    background: #fff;
+    border-radius: 10px;
+}
+.organization {
+    width: 100%;
+}
+.organization-top ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 0;
+}
+
+.organization-top ul li {
+    width: 14.28%;
+    text-align: center;
+    padding: 5px;
+}
+
